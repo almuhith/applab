@@ -31,6 +31,13 @@ body{
     color: #fff;
 }
 
+
+/*===========================
+            2.HEADER
+===========================*/
+header {
+    margin-top: 76px;
+}
 header .navbar-brand{
     color: #ff9966;
     font-size: 30px;
@@ -38,6 +45,7 @@ header .navbar-brand{
 }
 header .navbar-brand span{
     color: #333366;
+    margin-left: -5px;
 }
 header .nav-link{
     color: #333366;
@@ -48,4 +56,62 @@ header .nav-link{
 }
 header .nav-link:hover{
     color: #ff9966;
+}
+/*===========================
+            3. HERO
+===========================*/
+#hero{
+    height: 100vh;
+    background-image: url('assets/img/hero_bg.png');
+    background-repeat: no-repeat;
+    background-position: bottom;
+    position: relative;
+}
+#hero .left-area{
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+}
+#hero .left-area .text{
+    background-color: #e2eaed;
+    display: inline-block;
+}
+#hero .left-area .text i{
+    padding: 5px;
+    background-color: #ff9966;
+    color: #fff;
+    font-size: 22px;
+}
+#hero .left-area .text span{
+    font-size: 18px;
+    font-weight: 500;
+    color: #333366;
+    padding-right: 45px;
+}
+#hero .left-area h2{
+    font-size: 60px;
+    font-weight: 700;
+    color: #333366;
+    margin-top: 30px;
+}
+#hero .left-area p{
+    font-size: 18px;
+    font-weight: 400;
+    color: #666;
+    margin-top: 16px;
+}
+#hero .left-area .btn-group{
+    margin-top: 8px;
+}
+#hero .left-area .btn2{
+    color: #3300ff;
+    margin-top: 5px;
+    margin-left: 12px;
+    transition: 0.4s ease;
+}
+#hero .left-area .btn2:hover{
+    color: #ff9966;
+}
+#hero .img{
+    margin-left: 156px;
 }
