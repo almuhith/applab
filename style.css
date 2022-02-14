@@ -17,4 +17,35 @@
 }
 body{
     font-family: 'Poppins';
+
+}
+.mybtn{
+    font-size: 16px;
+    font-weight: 700;
+    padding: 10px 40px;
+    background-color: #3300ff;
+    color: #fff;
+}
+.mybtn:hover{
+    background-color: #ff9966;
+    color: #fff;
+}
+
+header .navbar-brand{
+    color: #ff9966;
+    font-size: 30px;
+    font-weight: 700;
+}
+header .navbar-brand span{
+    color: #333366;
+}
+header .nav-link{
+    color: #333366;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 20px;
+    transition: 0.4s ease;
+}
+header .nav-link:hover{
+    color: #ff9966;
 }
