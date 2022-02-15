@@ -393,3 +393,21 @@ header .nav-link:hover{
 #faq .s-faq i{
     font-size: 20px;
 }
+/*===========================
+            12. DOWNLOAD
+===========================*/
+#download{
+    border-top: 1px solid rgb(212, 212, 212);
+}
+#download .text-area h2{
+    font-size: 36px;
+    color: #333366;
+    font-weight: 600;
+}
+#download .text-area p{
+    color: #666;
+    padding: 40px 0px;
+}
+#download .text-area .img .left-img{
+    margin-right: 35px;
+}
