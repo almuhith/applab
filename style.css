@@ -220,3 +220,21 @@ header .nav-link:hover{
     color: #333366;
     margin: 20px;
 }
+/*===========================
+            8. U-FEATURE
+===========================*/
+#u-feature .u-f-header h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #333366;
+    margin-bottom: 30px;
+}
+#u-feature .f-list .single{
+    padding-top: 30px;
+}
+#u-feature .f-list .single h2{
+    font-size: 20px;
+    font-weight: 600;
+    color: #333366;
+    margin: 20px 0px;
+}
