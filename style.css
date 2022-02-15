@@ -17,7 +17,11 @@
 }
 body{
     font-family: 'Poppins';
-
+    font-weight: 400;
+    font-size: 16px;
+}
+section{
+    padding: 100px 0px;
 }
 .mybtn{
     font-size: 16px;
@@ -25,6 +29,7 @@ body{
     padding: 10px 40px;
     background-color: #3300ff;
     color: #fff;
+    transition: 0.4s ease;
 }
 .mybtn:hover{
     background-color: #ff9966;
@@ -37,6 +42,7 @@ body{
 ===========================*/
 header {
     margin-top: 76px;
+    margin-bottom: 10px;
 }
 header .navbar-brand{
     color: #ff9966;
@@ -114,4 +120,11 @@ header .nav-link:hover{
 }
 #hero .img{
     margin-left: 156px;
+}
+/*===========================
+            4.SPONSOR
+===========================*/
+#sponsor .header p{
+    color: #333366;
+    margin-bottom: 35px;
 }
