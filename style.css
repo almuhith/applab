@@ -411,3 +411,41 @@ header .nav-link:hover{
 #download .text-area .img .left-img{
     margin-right: 35px;
 }
+/*===========================
+            13. FOOOTER
+===========================*/
+#footer{
+    background-color: #081330;
+}
+#footer .logo h2{
+    color: #ff9966;
+    font-size: 30px;
+    font-weight: 700;
+}
+#footer .logo h2 span{
+    color: #fff;
+}
+#footer menu {
+    padding: 50px 0px;
+}
+#footer menu .nav-link{
+    color: #fff;
+    transition: 0.4s ease;
+}
+#footer menu .nav-link:hover{
+    color: #ff9966 !important;
+}
+#footer .icon i{
+    color: #283246;
+    font-size: 30px;
+    padding: 0px 15px;
+    transition: 0.4s ease;
+}
+#footer .icon i:hover{
+    color: #fff;
+}
+#footer p{
+    color: #5F636E;
+    font-size: 14px;
+    padding-top: 80px;
+}
