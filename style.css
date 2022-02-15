@@ -238,3 +238,72 @@ header .nav-link:hover{
     color: #333366;
     margin: 20px 0px;
 }
+#u-feature .f-list a{
+    margin-top: 25px;
+}
+/*===========================
+            9. CHARGE
+===========================*/
+#charge .header h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #333366;
+}
+#charge .header p{
+    color: #666;
+    padding: 36px 0px;
+}
+#charge button{
+    border: 1px solid rgb(214, 214, 214);
+    display: block;
+    margin-left: 250px;
+    margin-bottom: 50px;
+}
+#charge button .btn1{
+    background: none;
+    padding-left: 25px;
+    padding-right: 25px;
+    color: #666;
+    text-decoration: none;
+    font-weight: 600;
+}
+#charge .charge-list .single{
+    box-shadow: 1px 1px 20px rgb(214, 214, 214);
+    display: inline-block;
+    border-radius: 10px;
+    
+}
+#charge .charge-list .single .head{
+    background-color: #F5F8F9;
+    padding: 45px 0px;
+}
+#charge .charge-list .single .head h2{
+    color: #333366;
+    font-weight: 600;
+    font-size: 60px;
+}
+#charge .charge-list .single .head h2 span{
+    font-size: 18px;
+    color: #666;
+}
+#charge .charge-list .single .head h3{
+    color: #333366;
+    font-size: 20px;
+    font-weight: 600;
+}
+#charge .charge-list .single .body{
+    padding: 10px 55px;
+
+}
+#charge .charge-list .single .body p{
+    color: #999;
+    margin: 30px;
+}
+#charge .charge-list .single .body .trial{
+    color: #3300ff;
+    font-weight: 600;
+}
+#charge .charge-list .pro{
+    margin-left: 40px;
+    border: 4px solid #e0e0e0;
+}
