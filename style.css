@@ -356,3 +356,40 @@ header .nav-link:hover{
     background-color: #F1F5FA;
     border: none;
 }
+/*===========================
+            11. FAQ
+===========================*/
+#faq .faq-head h2{
+    color: #333366;
+    font-size: 40px;
+    font-weight: 600;
+}
+#faq .faq-head p{
+    color: #666;
+    padding: 60px 0px;
+}
+#faq .faq-disc{
+    width: 80%;
+    padding: 50px;
+    background-color: #F5F7FA;
+}
+#faq .faq-disc h3{
+    color: #333366;
+    font-weight: 600;
+    font-size: 20px;
+    padding-bottom: 40px;
+}
+#faq .s-faq{
+    background-color: #F5F7FA;
+    padding: 20px 50px;
+    width: 80%;
+    margin-top: 10px;
+}
+#faq .s-faq p{
+    color: #333366;
+    font-size: 20px;
+    font-weight: 600;
+}
+#faq .s-faq i{
+    font-size: 20px;
+}
