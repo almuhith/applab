@@ -196,3 +196,27 @@ header .nav-link:hover{
     font-weight: 600;
     color: #333366;
 }
+/*===========================
+            7. CHOOSE
+===========================*/
+#choose{
+    border-top: 1px solid rgb(212, 212, 212);
+}
+#choose .c-header h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #333366;
+}
+#choose .c-header p{
+    color: #666;
+    padding: 38px 0px;
+}
+#choose .c-list .single{
+    padding: 60px;
+}
+#choose .c-list .single h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #333366;
+    margin: 20px;
+}
