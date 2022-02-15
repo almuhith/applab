@@ -244,6 +244,10 @@ header .nav-link:hover{
 /*===========================
             9. CHARGE
 ===========================*/
+
+#charge{
+    border-bottom: 1px solid rgb(212, 212, 212);
+}
 #charge .header h2{
     font-size: 36px;
     font-weight: 600;
@@ -306,4 +310,49 @@ header .nav-link:hover{
 #charge .charge-list .pro{
     margin-left: 40px;
     border: 4px solid #e0e0e0;
+}
+/*===========================
+            10. CLIENT
+===========================*/
+#client .text-area h2{
+    color: #333366;
+    font-size: 36px;
+    font-weight: 600;
+}
+#client .text-area p{
+    color: #666;
+    margin: 30px 0px;
+}
+#client .text-area .icon i{
+    color: #ffcc00;
+    font-size: 25px;
+}
+#client .text-area h3{
+    font-size: 20px;
+    color: #333366;
+    font-weight: 600;
+    padding: 30px 0px;
+}
+#client .text-area .footer{
+    margin-top: 20px;
+}
+#client .text-area .name{
+    margin-left: 20px;
+    margin-top: 25px;
+}
+#client .text-area .name h3{
+    padding: 0px !important;
+    margin-bottom: -25px;
+}
+#client .text-area .name p{
+    padding: 0px !important;
+}
+#client .text-area .icon-box i{
+    padding: 10px;
+    border: 1px solid #999;
+}
+#client .text-area .icon-box .active{
+    color: #3300ff;
+    background-color: #F1F5FA;
+    border: none;
 }
