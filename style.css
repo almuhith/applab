@@ -158,3 +158,41 @@ header .nav-link:hover{
     font-weight: 600;
     color: #ff6666;
 }
+/*===========================
+            6. JACKPOT
+===========================*/
+#jackpot .jack-header h2{
+    font-size: 40px;
+    font-weight: 600;
+    color: #333366;
+}
+#jackpot .jack-header p{
+    color: #666;
+    margin-top: 34px;
+    margin-left: 34px;
+}
+#jackpot .jack-item{
+    margin: 103px 0px;
+}
+#jackpot .jack-item .col-md-4{
+    padding-right: 130px;
+}
+#jackpot .jack-item .col-md-4:last-child{
+    padding-right: none;
+}
+
+#jackpot .jack-item .s-jack-i h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #ff6666;
+    margin-top: 35px;
+    margin-bottom: 15px;
+}
+#jackpot .jack-design .text-area{
+    margin-left: 80px;
+}
+#jackpot .jack-design .text-area h2{
+    font-size: 36px;
+    font-weight: 600;
+    color: #333366;
+}
