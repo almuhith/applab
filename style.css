@@ -128,3 +128,33 @@ header .nav-link:hover{
     color: #333366;
     margin-bottom: 35px;
 }
+/*===========================
+            5. FEATURE
+===========================*/
+#feature .f-header{}
+#feature .f-header h2{
+    font-size: 36px;
+    color: #333366;
+    font-weight: 600;
+    margin-bottom: 25px;
+}
+#feature .f-header p{
+    font-style: 16px;
+    color: #666;
+}
+#feature .f-list{}
+#feature .f-list .s-feature{
+    margin-top: 60px;
+}
+#feature .f-list .s-feature img{
+    width: 95px;
+    height: 95px;
+}
+#feature .f-list .s-feature .text{
+    margin-left: 25px;
+}
+#feature .f-list .s-feature .text h3{
+    font-size: 20px;
+    font-weight: 600;
+    color: #ff6666;
+}
